@@ -1,0 +1,3 @@
+name,position,salary,gender,age,vat,net_salary
+Somchai,Finance,30000,male,34,0.11000000000000001,<function calculate_salary at 0x000001A16EF78720>
+Somying,Manager,40200,female,25,0.04500000000000001,<function calculate_salary at 0x000001A16EF78720>

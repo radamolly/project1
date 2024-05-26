@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Somchai",
+        "position": "Finance",
+        "salary": "30000",
+        "gender": "male",
+        "age": "34"
+    },
+    {
+        "name": "Somying",
+        "position": "Manager",
+        "salary": "40200",
+        "gender": "female",
+        "age": "25"
+    }
+]
