@@ -17,3 +17,4 @@ print(df)
 
 sales_stats = df.groupby('product')['sales'].agg(['sum', 'mean', 'min', 'max'])
 print(sales_stats)
+print("hello")
