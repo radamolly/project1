@@ -11,4 +11,4 @@ print(df.groupby('Country')['Birth Rate'].min())
 
 print(df.loc[(df['Year'] == 2023), 'Country'])
 
-print(df[df['Year'] == 2015])
+print(df[df['Year'] >= 2015])
