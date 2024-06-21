@@ -35,6 +35,6 @@ savings.add_interest()
 print(savings.get_balance())
 
 current = CurrentAccount(1000, 500)
-current.withdraw(1200)
+current.withdraw(1500)
 print(current.get_balance())
 current.withdraw(800)
